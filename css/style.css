@@ -1,0 +1,30 @@
+:root {
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: color: #263238;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* HEADER */
+.header-container {
+    width: 1338;
+    
+}
